@@ -5,5 +5,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nerawww&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Projet de stage (1 mois) : https://github.com/BenSTAU/DEESI
